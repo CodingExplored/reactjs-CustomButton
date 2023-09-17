@@ -12,3 +12,5 @@ const CustomButton = ({ label, onClick, variant, size, disabled }) => {
       </div>
     );
 }
+
+exoprt default CustomButton;

@@ -13,4 +13,4 @@ const CustomButton = ({ label, onClick, variant, size, disabled }) => {
     );
 }
 
-exoprt default CustomButton;
+export default CustomButton;
